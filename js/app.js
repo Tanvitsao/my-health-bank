@@ -38,7 +38,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* eslint-disable no-console 
 /***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var vue_router__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue-router */ \"./node_modules/vue-router/dist/vue-router.mjs\");\n\nconst routes = [{\n  path: '/',\n  redirect: '/insurance'\n}, {\n  path: '/insurance',\n  name: 'insurance',\n  component: () => __webpack_require__.e(/*! import() */ \"src_views_InsuranceView_vue\").then(__webpack_require__.bind(__webpack_require__, /*! ../views/InsuranceView.vue */ \"./src/views/InsuranceView.vue\"))\n}];\nconst router = (0,vue_router__WEBPACK_IMPORTED_MODULE_0__.createRouter)({\n  history: (0,vue_router__WEBPACK_IMPORTED_MODULE_0__.createWebHistory)(\"/nhiservice/\"),\n  routes\n});\n/* harmony default export */ __webpack_exports__[\"default\"] = (router);\n\n//# sourceURL=webpack://my-health-bank/./src/router/index.ts?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var vue_router__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue-router */ \"./node_modules/vue-router/dist/vue-router.mjs\");\n\nconst routes = [{\n  path: '/',\n  redirect: '/insurance'\n}, {\n  path: '/insurance',\n  name: 'insurance',\n  component: () => __webpack_require__.e(/*! import() */ \"src_views_InsuranceView_vue\").then(__webpack_require__.bind(__webpack_require__, /*! ../views/InsuranceView.vue */ \"./src/views/InsuranceView.vue\"))\n}];\nconst router = (0,vue_router__WEBPACK_IMPORTED_MODULE_0__.createRouter)({\n  history: (0,vue_router__WEBPACK_IMPORTED_MODULE_0__.createWebHistory)(\"/nanshan/nhiservice/\"),\n  routes\n});\n/* harmony default export */ __webpack_exports__[\"default\"] = (router);\n\n//# sourceURL=webpack://my-health-bank/./src/router/index.ts?");
 
 /***/ }),
 
@@ -480,7 +480,7 @@ eval("module.exports = \"data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/20
 /******/ 	
 /******/ 	/* webpack/runtime/publicPath */
 /******/ 	!function() {
-/******/ 		__webpack_require__.p = "/nhiservice/";
+/******/ 		__webpack_require__.p = "/nanshan/nhiservice/";
 /******/ 	}();
 /******/ 	
 /******/ 	/* webpack/runtime/jsonp chunk loading */

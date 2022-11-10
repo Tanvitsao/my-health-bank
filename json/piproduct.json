@@ -1,0 +1,37 @@
+{
+  "code": "",
+  "data": [
+    {
+      "product_text": "南山終身醫療保險",
+      "product_id": "PH",
+      "category1_text": "醫療保障商品",
+      "category1_id": "H10",
+      "category2_text": "",
+      "category2_id": ""
+    },
+    {
+      "product_text": "南山人壽住院醫療保險附約",
+      "product_id": "HS",
+      "category1_text": "醫療保障商品",
+      "category1_id": "H10",
+      "category2_text": "",
+      "category2_id": ""
+    },
+    {
+      "product_text": "南山人壽住院費用給付保險附約",
+      "product_id": "HIR",
+      "category1_text": "醫療保障商品",
+      "category1_id": "H10",
+      "category2_text": "",
+      "category2_id": ""
+    },
+    {
+      "product_text": "南山人壽手握幸福手術醫療健康保險附約",
+      "product_id": "1SIR",
+      "category1_text": "醫療加值補充包",
+      "category1_id": "H20",
+      "category2_text": "自費醫材補充",
+      "category2_id": "H2010"
+    }
+  ]
+}
